@@ -18,6 +18,8 @@ Anna Bazaar is a farmer-buyer platform designed to connect rural farmers directl
 - **Cloud**: Google Cloud Platform (GCP)
 - **APIs**: Google Maps, data.gov.in, OpenWeather
 - **Conversational AI**: Dialogflow
+  
+## Anna Bazaar Logo
 
 <img src="https://tinyurl.com/AnnaBazaar" width="400" height="400" alt="Anna Bazaar Logo">
   
