@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>614546026220-p1bo6c206gs6t7i63fup6io7u533bndo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.614546026220-p1bo6c206gs6t7i63fup6io7u533bndo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>614546026220-38f35d2su0ifnq8v8fjamaghf6jj2t3v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_qRqjFbn4zJs9SmV0T0Oc8tjMrZFevfg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>614546026220</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AnnaBazaar.anna</string>
+	<key>PROJECT_ID</key>
+	<string>anna-bazaar-solution</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anna-bazaar-solution.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:614546026220:ios:500577296c4fc151183fc9</string>
+	<key>DATABASE_URL</key>
+	<string>https://anna-bazaar-solution-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

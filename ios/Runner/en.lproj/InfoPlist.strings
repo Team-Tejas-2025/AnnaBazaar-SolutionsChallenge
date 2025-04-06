@@ -1,0 +1,10 @@
+NSLocationWhenInUseUsageDescription = "We need access to your location to provide personalized services, such as finding nearby places or offering location-based recommendations. Your location data will only be used for this purpose.
+
+Please tap \"Allow\" to grant access to your location.";
+NSContactsUsageDescription = "We need access to your contacts to help you connect with friends,  family and customer. Your contacts will only be used for this purpose.
+
+Please tap \"Allow\" to grant access to your contacts.";
+PermissionGroupNotification = "To keep you updated with important alerts, we need permission to send notifications. Please enable notifications in your settings so you can stay informed about the latest updates and news.
+
+Tap \"Allow\" to receive notifications from us.";
+NSCalendarsUsageDescription = "good day";

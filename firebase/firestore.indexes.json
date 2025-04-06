@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Farmer_Ai",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "aiChat_ref",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "sent_data_time",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "chats",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "userids",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "last_message",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
