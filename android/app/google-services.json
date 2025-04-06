@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "614546026220",
+    "firebase_url": "https://anna-bazaar-solution-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anna-bazaar-solution",
+    "storage_bucket": "anna-bazaar-solution.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614546026220:android:0d8d785f4a6e21c8183fc9",
+        "android_client_info": {
+          "package_name": "com.AnnaBazaar.anna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614546026220-38f35d2su0ifnq8v8fjamaghf6jj2t3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AnnaBazaar.anna",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "614546026220-sn1kimra9srmbkgdi45fqoje07iknrr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHlCXzKPVJEbUSCuYRrC0OOdB0umJ4YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614546026220-sn1kimra9srmbkgdi45fqoje07iknrr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "614546026220-p1bo6c206gs6t7i63fup6io7u533bndo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AnnaBazaar.anna"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
